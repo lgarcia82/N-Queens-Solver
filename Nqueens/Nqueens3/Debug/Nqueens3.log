@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\users\lee\desktop\school\spring 2018\cosc 4330 ai\project\nqueen\nqueen\nqueens\nqueens3\main.cpp(102): warning C4018: '<': signed/unsigned mismatch
+c:\users\lee\desktop\school\spring 2018\cosc 4330 ai\project\nqueen\nqueen\nqueens\nqueens3\main.cpp(116): warning C4018: '<': signed/unsigned mismatch
+c:\users\lee\desktop\school\spring 2018\cosc 4330 ai\project\nqueen\nqueen\nqueens\nqueens3\main.cpp(238): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Nqueens3.vcxproj -> C:\Users\Lee\Desktop\School\Spring 2018\COSC 4330 AI\Project\Nqueen\Nqueen\Nqueens\Debug\Nqueens3.exe
